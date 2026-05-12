@@ -1,0 +1,6 @@
+{
+  "name": "GitSwitch",
+  "description": "Multi-account Git credential manager for local machines. Seamlessly switch between GitHub, GitLab, and other Git identities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Git account management", "Local credential switching", "Activity logging"]
+}
